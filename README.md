@@ -30,3 +30,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 License
 This project is licensed under the MIT License.
+
+
+thanks for reading  if u face any issue you can connect me with Linkedin profile: https://www.linkedin.com/in/junaid-khan-998227jk4550/
